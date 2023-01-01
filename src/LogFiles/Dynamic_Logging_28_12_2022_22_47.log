@@ -1,0 +1,3 @@
+28 December 2022 22:47:33  0 [main] [INFO] TestScripts.VerifyHomeLoanOptionsTest [VerifyHomeLoanOptionsTest.java:21] - CDwindow-D9885C38BEEFE7B314B97F35D163874A
+28 December 2022 22:47:42  8352 [main] [INFO] TestScripts.VerifyHomeLoanOptionsTest [VerifyHomeLoanOptionsTest.java:51] - Bank name is :Capital India Term LoanInterest rate is: 12.0
+28 December 2022 22:47:42  8353 [main] [INFO] TestScripts.VerifyHomeLoanOptionsTest [VerifyHomeLoanOptionsTest.java:56] - Bank name is :Axis Asha ABBInterest rate is: 4.0
